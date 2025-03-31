@@ -1,0 +1,5 @@
+python-telegram-bot
+pandas
+requests
+pandas-ta
+apscheduler

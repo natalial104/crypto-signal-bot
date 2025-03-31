@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: crypto-signal-bot
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: bash start.sh
